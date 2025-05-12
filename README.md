@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# pokecatch
-A cursor-generated pokemon-catching game
-=======
-# Pokemon Catch Game
+# PokeCatch
 
-A simple 2D Pokemon catching game created with Python and Pygame.
+A simple vibe-coded 2D Pokemon catching game created with Python and Pygame.
 
 ## Description
 
@@ -52,4 +48,3 @@ Each Pokemon type has a unique appearance!
 - Add more Pokemon types
 - Implement a difficulty system
 - Add evolution mechanics 
->>>>>>> c15b809 (initial commit)
