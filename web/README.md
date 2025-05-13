@@ -1,6 +1,6 @@
-# Pokemon Catch Game - Web Version
+# PokeCatch Game - Web Version
 
-This is the web version of the Pokemon Catch Game, implemented using HTML5, CSS, and JavaScript.
+This is the web version of the Pokemon Catching Game, implemented using HTML5, CSS, and JavaScript.
 
 ## How to Play
 
@@ -23,7 +23,7 @@ You can host this game on any basic web server. For local testing, you can use:
 - Live Server extension in VS Code
 - Python's built-in HTTP server:
   ```
-  cd ~/workspace/pokemon_catch_game/web
+  cd ~/workspace/pokecatch_game/web
   python -m http.server
   ```
 - Any other static file server
