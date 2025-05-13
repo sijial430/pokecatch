@@ -1,6 +1,6 @@
 # PokeCatch
 
-A simple vibe-coded 2D Pokemon catching game created with Python and Pygame.
+A simple vibe-coded 2D Pokemon catching game created with Python and Pygame during PLI retreat 2025.
 
 ## Description
 
